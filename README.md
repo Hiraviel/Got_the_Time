@@ -31,3 +31,10 @@ El sistema tiene la intención de:
       ESTEESUNCODIGOVIN_2019-05-19.txt
 
 3.- El proceso se ejecuta de manera constante regreseando siempre a la solicitud de los parametros VIN/MODELO.
+
+
+v1.1
+
+1.- Sistema realiza continuamente su función, mediante Threading, pero muestra errores en línea de comandos.
+2.- No es necesario el archivo Tkinter_Timer.py, el Script se incorpora directamente a Timer.py.
+3.- En v1 se sobreescribia el contenido si se reutilizaba el VIN, se mejora añadiendo hora de inicio al nombre del .txt.
