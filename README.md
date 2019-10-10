@@ -14,7 +14,7 @@ El sistema tiene la intención de:
       
 * 0 a 26 minutos:  VERDE
 * 27 - 51 minutos:  AMARILLO
-* >= 52 minutos:  ROJO
+* Mayor o igual que 52 minutos:  ROJO
 
 3.- Generar un archivo ".txt" que contiene varios parametros:
 
